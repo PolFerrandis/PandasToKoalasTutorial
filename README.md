@@ -7,7 +7,7 @@
 ## Table of contents
 - Scenario
 - Migration from pandas to Koalas
-- Missing Functionalities and Workarounds in Koalas
+- Using SQL in Koalas
 - Working with PySpark
 
 ## Scenario: 
@@ -38,8 +38,12 @@ The next steps show how to make this transition and how to apply different tools
 <img width="537" alt="Screenshot 2021-11-26 at 16 19 54" src="https://user-images.githubusercontent.com/88676121/143601980-03dace2d-4f00-42cb-a884-c1440152a910.png">
 
 
-## Missing Functionalities and Workarounds in Koalas
+## Using SQL in Koalas
 
+<img width="647" alt="Screenshot 2021-11-28 at 22 55 21" src="https://user-images.githubusercontent.com/88676121/143787577-b9586b60-03d3-4f7d-b7e4-3ff324b60cf8.png">
 
 
 ## Working with PySpark
+
+<img width="699" alt="Screenshot 2021-11-28 at 22 56 11" src="https://user-images.githubusercontent.com/88676121/143787614-99335a31-bc71-417d-88d8-50e85b6f277a.png">
+
